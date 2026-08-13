@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/discord.py": {
-      "runtime": "python3.12"
-    }
-  }
-}
