@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/discord.py": {
-      "maxDuration": 60
-    }
-  }
-}
